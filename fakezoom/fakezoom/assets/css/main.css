@@ -1,0 +1,50 @@
+
+
+body{
+    font-family: 'Roboto', sans-serif;
+    background-color: rgb(21, 21, 21);
+    color: white;
+}
+
+.rounded-edges{
+    border-radius: 20px;
+}
+
+.circle-btn{
+    font-size: 1.1em;
+    border-radius: 50%;
+    width: 46px;
+    height: 46px;
+    padding: 0px;
+    padding-top: 1px;
+}
+
+.white-btn{
+    color: #ececec !important;
+    background-color: #2b2b2b !important;
+    border: 2px solid #ececec !important;
+}
+
+.danger-btn{
+    color: #ff327a !important;
+    background-color: #2b2b2b !important;
+    border: 2px solid #ff327a !important;
+}
+
+.btn:hover{
+    color: rgb(217, 217, 217);
+}
+
+.sticker{
+    color: #000000;
+    font-weight: bold;
+    background-color: #e2e2e2;
+    border: solid 1px #e2e2e2;
+    padding: 0px 10px;
+    border-radius: 4px;
+    font-size: 0.8em;
+}
+
+.purple-border{
+    border: 2px solid #ececec !important;
+}
